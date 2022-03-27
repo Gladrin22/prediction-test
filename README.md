@@ -1,6 +1,6 @@
-# Stock-Prediction-Web-App
+# Predicting E-Commerce Stocks
 
 
 
 # Demo
-https://share.streamlit.io/srishha/stock-prediction-web-app/main/Stock-Prediction-app.py
+
